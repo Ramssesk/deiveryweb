@@ -1,0 +1,49 @@
+Hola soy Ramsses programador web y administrador de sistemas escribo código desde hace 8 años me gusta la simplicidad efectiva y coherencia en mi trabajo para obtener mayores resultados legibles en el menor tiempo estimado, te comparto mis habilidades técnicas 
+
+Desarrollo WEB Frontend
+
+-	Manejadores de dependencias npm y yarn medio.
+
+-	Estilos CSS Flexbox, JQuery, Bootstrap, Material UI, media querys.
+
+-	React JS orientado a functional components aplicando hooks
+
+-       EcmaScript 6 - 10 librerías de validaciones como Formik o Yup.
+
+-       Manejo de estado de la App (useContext, useReducer)
+
+-       Websockets nativos de javascript o con socket.io, axios o fetch.
+
+-       Consultas de API’s deploy con laravel-mix o desde node.js con rutas estáticas y dinamicas.
+
+Desarrollo WEB Backend
+
+-	Uso de npm, yarn y composer como manejador de dependencias.
+
+-	 Desarrollo con framework Express (Node.js) y Laravel (PHP) 
+
+-       Autenticacion y manejo de roles JSON Web Tokens
+
+-	Conexiónes API REST con rutas GET, POST, PUT, DELETE.
+
+-	Bases de datos Mysql SQL Server y nosql MongoDB 
+
+-      ORM’s Eloquent, Prisma y Sequelize.
+
+-	Deploy  Heroku, Atlas y Google Firebase, Github
+
+-	Herramientas de desarrollo postman, compass, mysql worbench, react native debugger
+
+
+Desarrollo Movil 
+
+-	React Native desarrollo de componentes e interfaces
+
+-	 React Navigation v.5 y v.4  para navegacion en la interfaces
+
+-	Native Base diseño de interfaces o creación de componentes con los stylesheets de react native
+
+-	Websockets, axios y fetch para API’s.
+
+-	Uso de React-Native-Cli o Expo 
+
